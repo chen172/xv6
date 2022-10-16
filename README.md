@@ -26,8 +26,13 @@ usertests.c:1461:13: error: writing 1 byte into a region of size 0 [-Werror=stri
  C:\Program' 'Files\Oracle\VirtualBox\VBoxManage convertfromraw --format VDI .\fs.img .\fs.vdi
  ```
  2. Create Virtual Machine, choose ```type: Linux and version: Other Linux (32 bit)```
+
  <img src="picture/virtualbox_xv6.png"></img>
+
  3. In Settings, enable ```I/O APIC```
+ 
  <img src="picture/enable_APIC.png"></img>
+ 
  4. In Settings, add IDE
+ 
  <img src="picture/add_IDE.png"></img>
