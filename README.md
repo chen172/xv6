@@ -33,6 +33,6 @@ usertests.c:1461:13: error: writing 1 byte into a region of size 0 [-Werror=stri
  
  <img src="picture/enable_APIC.png"></img>
  
- 4. In Settings, add IDE
+ 4. In Settings, add xv6.vdi and fs.vdi in IDE
  
  <img src="picture/add_IDE.png"></img>
